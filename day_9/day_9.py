@@ -1,5 +1,4 @@
 # --- Day 9: Encoding Error ---
-
 from itertools import permutations
 
 
