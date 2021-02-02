@@ -1,0 +1,1 @@
+### Day 7 <a href="https://adventofcode.com/2020/day/7" target="_blank">puzzle</a>
