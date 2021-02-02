@@ -2,7 +2,7 @@
 from collections import Counter
 
 
-# Part 1
+# PART 1
 yes_answers = 0
 with open("input_6.txt") as input_file:
     for answers in input_file.read().split("\n\n"):
@@ -11,7 +11,7 @@ with open("input_6.txt") as input_file:
 print(f"PART_1: {yes_answers}")
 
 
-# Part 2
+# PART 2
 yes_answers = 0
 with open("input_6.txt") as input_file:
     for group in input_file.read().split("\n\n"):
