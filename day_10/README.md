@@ -1,0 +1,1 @@
+### Day 10 <a href="https://adventofcode.com/2020/day/10" target="_blank">puzzle</a>
