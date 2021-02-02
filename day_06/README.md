@@ -1,2 +1,2 @@
-### Day 6 <a href="https://www.pylint.org/">Pylint</a> and the <a href="https://plugins.jenkins.io/pyenv-pipeline/">puzzle</a>
+### Day 6 <a href="https://adventofcode.com/2020/day/6">puzzle</a>
 
