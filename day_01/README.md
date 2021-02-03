@@ -1,0 +1,1 @@
+### Day 1 <a href="https://adventofcode.com/2020/day/1" target="_blank">puzzle</a>
