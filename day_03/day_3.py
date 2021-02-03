@@ -25,7 +25,7 @@ print(f"PART_1: {how_many_trees(3, 1)}")
 
 
 # PART 2
-slope_a = how_many_trees(1, 1)
+slope_a = how_many_trees()
 slope_b = how_many_trees(3, 1)
 slope_c = how_many_trees(5, 1)
 slope_d = how_many_trees(7, 1)
